@@ -38,8 +38,8 @@
                 <td>Javascript</td>
               </tr>
               <tr>
-                <td>Lee</td>
                 <td>Gyuhaeng</td>
+                <td>Lee</td>
                 <td>html</td>
               </tr>
             </tbody>
