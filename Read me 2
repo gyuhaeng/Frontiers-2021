@@ -55,10 +55,11 @@
           <h2> Momo</h2>
           <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Momo_English.jpg"
           alt="momo image" height="150" width="100">
-          
+          <p> some content</p>
           <h2> We are the ants</h2>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29jd5FzL9sbs63UJ9AGzZ2v0QpcpUdXi2YQ&usqp=CAU"
           alt="we are the ants image" height="150" width="100">
+          <p>some content</p>
           <!-- end of content column: put your content above this line --> 
           </div>
       </div>
