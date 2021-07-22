@@ -76,22 +76,27 @@ I always answer with this book to the question of "what I should read at least o
           <h4>USA</h4>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjyA2DrIf7mId-Q2BJUVQ-ypi_PMMWY3Gyg&usqp=CAU"
             alt="american book" height="150" width="100">
+          <It's a very famous book that everyone knows. I think you know better than I do.</p>
           <h3> Memoir of A Murderer (살인자의 기억법, sal-injaui gieogbeob)</h3>
           <h4>Korea</h4>
           <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA0MDdfOTcg%2FMDAxNjE3NzkzNDkzNTY2.HQ-_TqhW3fPxoCRWbP5e6US6KKR_k3HTb3Zvsb6OX70g.gJ7fo-JUymL5eOu8p5ui47KkZVKqNnS6Eg6J7NIqOzIg.JPEG.skrgjs96s%2F%25BB%25EC%25C0%25CE%25C0%25DA%25C0%25C7%25B1%25E2%25BE%25EF%25B9%25FD.jpg&amp;type=a340"
             alt="korean book" height="150" width="100">
+          <p>A book that has even been made into a movie in Korea. It has a unique main character who is a killer with dementia.</p>
           <h3> From the New World (新世界より,Shinsekaiyori)   </h3>
           <h4>Japan</h4>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwCUsJAHaj8tW2olAoS2mbwkzQq4-hBULftA&amp;usqp=CAU"
             alt="Japanese book" height="150" width="200">
+          <p>The book that won the Japan SF Grand Prize. Although genre is fantasy, but it includes the cruelty of reality.</p>
           <h3> The Third Humanity (Troisième Humanité)</h3>
           <h4>France</h4>
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411137077l/23251191.jpg"
             alt="french book" height="150" width="100">
+          <p>This book is based on logical science and allows you to experience artificial intelligence, capitalism, religion, astronauts, surgical life, women and The Third Humanity.
           <h3> Demian : The Story of Emil Sinclairs Youth (Demian - Die Geschichte von Emil Sinclairs Jugend)</h3>
           <h4>Germany</h4>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsE8M-ySOCz_MfRnu9dXcadV6kTLZPASKrjw&usqp=CAU"
             alt="german book" height="150" width="100">
+          <p>The best-selling work of the Nobel Prize-winning author. No further explanation is needed.</p>
           <hr>
          <div id="tswsidecol">
           <div id="tswsideproper">
