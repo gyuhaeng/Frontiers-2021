@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title> project webpage</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title> project webpage</title>
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
