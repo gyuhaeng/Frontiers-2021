@@ -62,6 +62,10 @@
 
             alt="we are the ants image" height="150" width="100">
           <h4>Jaden's</h4>
+          <img src="https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
+
+            alt="The Hobbit image" height="150" width="100">
+          <h3> The Hobbit</h3>
           <hr>
           <h2>Book recommendations by country</h2>
           <h3>
