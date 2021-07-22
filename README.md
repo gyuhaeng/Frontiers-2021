@@ -85,7 +85,7 @@
             </p>
             <div id="tswcssbuttons">
               <ul>
-                <li><a href="https://users.wpi.edu/%7Eglee2/">home</a></li>
+                <li><a href="https://github.com/gyuhaeng/Frontiers-2021/blob/main/README.md">home</a></li>
               </ul>
             </div>
             <p> </p>
