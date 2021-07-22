@@ -54,16 +54,13 @@
           <h3> Momo</h3>
           <h4> Gyuhaeng's</h4>
           <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Momo_English.jpg"
-
             alt="momo image" height="150" width="100">
           <h3> We are the ants</h3>
           <h4> Nikolas's</h4>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29jd5FzL9sbs63UJ9AGzZ2v0QpcpUdXi2YQ&amp;usqp=CAU"
-
             alt="we are the ants image" height="150" width="100">
           <h4>Jaden's</h4>
           <img src="https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
-
             alt="The Hobbit image" height="150" width="100">
           <h3> The Hobbit</h3>
           <hr>
