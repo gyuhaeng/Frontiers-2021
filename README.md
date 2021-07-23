@@ -62,14 +62,25 @@
  Time and relationship. These two things, naturally, become more and more complicated as they reach adulthood. But it also become rather monotonous in some ways. "Spend the time you need." "Maintain helpful relationships with humans." With these two things.<br><br>
 The main character, "Momo," criticizes both "time needed" and "a helpful human being." which consist unmatched modifiers and nouns. Because it is so attractive, I've read this book as many as six times.<br><br>
 I always answer with this book to the question of "what I should read at least once in my life". It's a book that's that interesting and makes you look back on your life.</p>
+          <button onclick="window.location.href='https://www.amazon.com/Momo-Puffin-Books-Michael-Ende/dp/0140317538'">
+            Buy It Now! </button> <br>
           <h3> We are the ants</h3>
           <h4> Nikolas's</h4>
+          <p> "'We Are The Ants' tells a beautiful story of a boy grappling
+            with the lost of his best friend. As he struggles to cope, he is
+            given the opportunity to erase Earth from a dream-like alien. His
+            journey through his pain and existential dread hit close to home and
+            created many teary-eyed moments. It is a must read."</p>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29jd5FzL9sbs63UJ9AGzZ2v0QpcpUdXi2YQ&amp;usqp=CAU"
-            alt="we are the ants image" height="150" width="100">
+            alt="we are the ants image" height="150" width="100"> <br>
+          <button onclick="window.location.href='https://www.amazon.com/Are-Ants-Shaun-David-Hutchinson/dp/1481449648'">
+            Buy It Now! </button> <br>
           <h3> The Hobbit</h3>
           <h4>Jaden's</h4>
           <img src="https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
             alt="The Hobbit image" height="150" width="100">
+          <button onclick="window.location.href='https://www.amazon.com/Hobbit-There-Again-Tolkien-Paperback/dp/B00OHXKIWG/ref=sr_1_4?dchild=1&amp;keywords=the+hobbit&amp;qid=1626979459&amp;s=books&amp;sr=1-4'">
+            Buy It Now! </button>
           <hr>
           <h2>Book recommendations by country</h2>
           <h3>The Catcher in the Rye</h3>
