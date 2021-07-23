@@ -77,7 +77,6 @@ I always answer with this book to the question of "what I should read at least o
           <h4>Jaden's</h4>
           <img src="https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
             alt="The Hobbit image" height="150" width="100">
-
           <hr>
           <h2>Book recommendations by country</h2>
           <h3>The Catcher in the Rye</h3>
