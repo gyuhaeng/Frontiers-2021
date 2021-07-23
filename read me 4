@@ -100,9 +100,10 @@
           <h4>Jaden's</h4>
           <img src="https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg"
             alt="The Hobbit image" height="150" width="100">
-          <hr> <br>
+          <br>
           <button onclick="window.location.href='https://www.amazon.com/Hobbit-There-Again-Tolkien-Paperback/dp/B00OHXKIWG/ref=sr_1_4?dchild=1&amp;keywords=the+hobbit&amp;qid=1626979459&amp;s=books&amp;sr=1-4'">
             Buy It Now! </button>
+          <hr>
           <h2>Book recommendations by country</h2>
           <h3>The Catcher in the Rye</h3>
           <h4>USA</h4>
@@ -125,7 +126,6 @@
           <h3> The Third Humanity (Troisième Humanité)</h3>
           <h4>France</h4>
           <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411137077l/23251191.jpg"
-
             alt="french book" height="150" width="100">
           <p>This book is based on logical science and allows you to experience
             artificial intelligence, capitalism, religion, astronauts, surgical
